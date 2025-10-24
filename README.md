@@ -23,4 +23,4 @@ this project has 3 main features:
 
 
 
-Special Mentioned : Kiuur bcs he inspired me 
+Special Mentioned : Kiuur bcs he inspired me, and i recode his basee
