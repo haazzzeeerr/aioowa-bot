@@ -39,7 +39,7 @@ const path = require("path")
 
 const { spawn, exec, execSync } = require('child_process');
 const { Boom } = require('@hapi/boom');
-const { color } = require('./w-shennmine/lib/color');
+const { color } = require('./flowie-minee/lib/color');
 const { smsg, sleep, getBuffer } = require('./flowie-minee/lib/myfunction');
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid, addExif } = require('./flowie-minee/lib/exif')
 const listcolor = ['cyan', 'magenta', 'green', 'yellow', 'blue'];
